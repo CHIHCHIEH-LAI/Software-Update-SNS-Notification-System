@@ -17,8 +17,8 @@ Files:
 Commands:
 
 - `terraform init`
-- `terraform plan`
-- `terraform apply`
+- `terraform plan -out=plan`
+- `terraform apply "plan"`
 
 Resources:
 
