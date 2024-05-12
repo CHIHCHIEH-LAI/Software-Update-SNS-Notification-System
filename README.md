@@ -13,3 +13,13 @@ Files:
 3. `lambda.tf`: Contains Lambda function configuration.
 4. `outputs.tf`: Contains output values.
 5. `lambda_function.py`: Contains the Lambda function code.
+
+Commands:
+
+- `terraform init`
+- `terraform plan`
+- `terraform apply`
+
+Resources:
+
+- [How to create an AWS S3 bucket using Terraform](https://kodekloud.com/blog/how-to-create-aws-s3-bucket-using-terraform/)
