@@ -13,7 +13,3 @@ Commands:
 - `terraform plan -out=plan`
 - `terraform apply "plan"`
 - `terraform destroy`
-
-Resources:
-
-- [How to create an AWS S3 bucket using Terraform](https://kodekloud.com/blog/how-to-create-aws-s3-bucket-using-terraform/)
