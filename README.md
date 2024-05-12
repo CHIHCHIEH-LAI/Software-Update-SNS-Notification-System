@@ -19,6 +19,7 @@ Commands:
 - `terraform init`
 - `terraform plan -out=plan`
 - `terraform apply "plan"`
+- `terraform destroy`
 
 Resources:
 
